@@ -4,6 +4,8 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+black = "*"
+pylint = "*"
 
 [packages]
 jupyter = "==1.0.0"
@@ -13,3 +15,6 @@ scikit-learn = "==0.20.2"
 
 [requires]
 python_version = "3.6"
+
+[pipenv]
+allow_prereleases = true
