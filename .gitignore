@@ -1,3 +1,10 @@
 # Environments
 .env
 .venv
+
+# pickle files
+*.pkl
+
+# Data files
+train.csv
+test.csv
