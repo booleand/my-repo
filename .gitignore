@@ -1,3 +1,14 @@
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+sdist/
+MANIFEST
+
 # Environments
 .env
 .venv
