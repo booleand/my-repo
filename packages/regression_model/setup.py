@@ -14,7 +14,7 @@ DESCRIPTION = "Train and deploy regression model."
 URL = "http://www.github.com/booleand"
 EMAIL = "mosesahassan@gmail.com"
 AUTHOR = "Moses Hassan"
-REQUIRES_PYTHON ">=3.6.0"
+REQUIRES_PYTHON = ">=3.6.0"
 
 
 # What packages are required for this module to be executed?
