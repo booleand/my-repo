@@ -17,7 +17,7 @@ numpy = "==1.15.4"
 wheel = "==0.32.3"
 setuptools = "==40.6.3"
 regression-model = {editable = true,file = "file:///home/moses/Core/Studies/deploying-ml-models/my-repo/packages/regression_model"}
-Flask = "==1.0.1"
+Flask = "==1.0.2"
 
 [requires]
 python_version = "3.6"

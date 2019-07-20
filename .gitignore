@@ -15,6 +15,9 @@ MANIFEST
 .env
 .venv
 
+# Logs
+logs/
+
 # pickle files
 *.pkl
 
