@@ -1,0 +1,6 @@
+# api
+flask==1.0.1
+
+# local regression_model package
+# update with your local path
+-e "/home/moses/Core/Studies/deploying-ml-models/my-repo/packages/regression_model"
