@@ -18,9 +18,6 @@ MANIFEST
 # Logs
 logs/
 
-# pickle files
-*.pkl
-
 # Data files
 train.csv
 test.csv
