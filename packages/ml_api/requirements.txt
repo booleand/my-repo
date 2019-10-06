@@ -13,4 +13,4 @@ regression-model==1.0.0
 gunicorn==19.9.0
 
 # https://stackoverflow.com/questions/58189683/typeerror-attrib-got-an-unexpected-keyword-argument-convert
-attrs==19.2.0
+attrs==19.1.0
