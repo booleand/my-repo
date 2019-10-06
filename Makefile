@@ -15,4 +15,4 @@ push-ml-api-aws:
 	docker push ${AWS_ACCOUNT_ID}.dkr.ecr.us-east-1.amazonaws.com/$(AWS_NAME):$(COMMIT_ID)
 
 tag-ml-api:
-	docker tag $(NAME):$(COMMIT_ID) ${AWS_ACCOUNT_ID}.dkr.ecr.us-east-1.amazonaws.com/$(NAME):$(COMMIT_ID)
+	docker tag $(AWS_NAME):$(COMMIT_ID) ${AWS_ACCOUNT_ID}.dkr.ecr.us-east-1.amazonaws.com/$(AWS_NAME):$(COMMIT_ID)
